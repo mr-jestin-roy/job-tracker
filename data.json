@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17 00:22",
+  "generated": "2026-07-17 00:45",
   "applications": [
     {
       "Company": "Suncorp Group",
@@ -133,6 +133,39 @@
       "_url": "https://www.linkedin.com/jobs/view/4439989250/",
       "Posted": "1 day ago",
       "Fit Notes": "From LinkedIn recommendations: remote Applied AI Engineer role building AI features for a fintech/neobank app — fits Jestin's GenAI/applied AI engineering background.",
+      "Status": "Saved"
+    },
+    {
+      "Date Found": "2026-07-17",
+      "Company": "Linktree",
+      "Role": "Senior Data Scientist, Trust",
+      "Location": "Melbourne, VIC (Hybrid)",
+      "Job Link": "linkedin.com ↗",
+      "_url": "https://www.linkedin.com/jobs/view/4440269931/",
+      "Posted": "17 hours ago",
+      "Fit Notes": "Fresh DS role at Melbourne-based tech unicorn (70M+ users); Trust/Safety DS leveraging ML model evaluation, LLM-based safety systems and causal inference — strong alignment with Jestin's GenAI/ML background. Stretch: 5+ yrs req.",
+      "Status": "Saved"
+    },
+    {
+      "Date Found": "2026-07-17",
+      "Company": "RMIT University",
+      "Role": "Senior Data Scientist",
+      "Location": "Melbourne, VIC (Hybrid)",
+      "Job Link": "linkedin.com ↗",
+      "_url": "https://www.linkedin.com/jobs/view/4438473894/",
+      "Posted": "6 hours ago",
+      "Fit Notes": "Fresh DS role at RMIT; end-to-end ML/AI modelling with Python, SQL, AWS SageMaker, Snowflake. $121–137K + 17% super. Academic DS roles often have lower practical experience bar than industry 'Senior' titles. Stretch application.",
+      "Status": "Saved"
+    },
+    {
+      "Date Found": "2026-07-17",
+      "Company": "Canva",
+      "Role": "Senior Data Scientist - Discovery (12-month contract)",
+      "Location": "Sydney, NSW (Hybrid)",
+      "Job Link": "linkedin.com ↗",
+      "_url": "https://www.linkedin.com/jobs/view/4440621414/",
+      "Posted": "12 hours ago",
+      "Fit Notes": "Fresh contract DS role at Canva; Discovery team DS work (product analytics, experimentation). 12-month contract is easier to land than permanent Senior, and Canva is a premier AU tech employer. Stretch application.",
       "Status": "Saved"
     }
   ]
