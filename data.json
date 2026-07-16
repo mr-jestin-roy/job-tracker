@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16 17:31",
+  "generated": "2026-07-17 00:22",
   "applications": [
     {
       "Company": "Suncorp Group",
@@ -101,5 +101,39 @@
       "Notes": "Req R-0023364. Posted 7 days ago; end date 2026-07-24. Full time."
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "Date Found": "2026-07-17",
+      "Company": "Salient Group",
+      "Role": "Artificial Intelligence Engineer",
+      "Location": "Australia (Remote)",
+      "Job Link": "linkedin.com ↗",
+      "_url": "https://www.linkedin.com/jobs/view/4428796848/",
+      "Posted": "Reposted 14 hours ago",
+      "Fit Notes": "From LinkedIn recommendations: remote AI Engineer role centered on LLM/RAG/agentic product systems (LangChain/LangGraph) — strong match for Jestin's GenAI and agentic AI experience.",
+      "Status": "Saved"
+    },
+    {
+      "Date Found": "2026-07-17",
+      "Company": "Publicis Sapient",
+      "Role": "AI Engineer",
+      "Location": "Melbourne, VIC",
+      "Job Link": "linkedin.com ↗",
+      "_url": "https://www.linkedin.com/jobs/view/4429479385/",
+      "Posted": "Reposted 1 day ago",
+      "Fit Notes": "From LinkedIn recommendations: Melbourne-based AI Engineer role at a consultancy, aligning with Jestin's target of AI Engineer roles at consulting firms.",
+      "Status": "Saved"
+    },
+    {
+      "Date Found": "2026-07-17",
+      "Company": "BJAK",
+      "Role": "Applied AI Engineer - AI Neobank App",
+      "Location": "Australia (Remote)",
+      "Job Link": "linkedin.com ↗",
+      "_url": "https://www.linkedin.com/jobs/view/4439989250/",
+      "Posted": "1 day ago",
+      "Fit Notes": "From LinkedIn recommendations: remote Applied AI Engineer role building AI features for a fintech/neobank app — fits Jestin's GenAI/applied AI engineering background.",
+      "Status": "Saved"
+    }
+  ]
 }
