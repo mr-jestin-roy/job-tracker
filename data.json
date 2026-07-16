@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16 17:08",
+  "generated": "2026-07-16 17:18",
   "applications": [
     {
       "Company": "Suncorp Group",
@@ -88,6 +88,17 @@
       "Status": "In progress",
       "Cover Letter": "No",
       "Notes": "AI team builds agentic AI systems/LLM-powered products; Hybrid, Full-time."
+    },
+    {
+      "Company": "AGL",
+      "Role": "Data Scientist",
+      "Job Link": "agl.wd3.myworkdayjobs.com ↗",
+      "_url": "https://agl.wd3.myworkdayjobs.com/en-US/AGL_Recruitment/job/Data-Scientist_R-0023364-1",
+      "Date Applied": "2026-07-16",
+      "Location": "Melbourne Corporate",
+      "Status": "Applied",
+      "Cover Letter": "No",
+      "Notes": "Req R-0023364. Posted 7 days ago; end date 2026-07-24. Full time."
     }
   ],
   "new_jobs": []
