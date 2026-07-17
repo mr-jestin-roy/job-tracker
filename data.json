@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17 00:45",
+  "generated": "2026-07-17 12:12",
   "applications": [
     {
       "Company": "Suncorp Group",
@@ -166,6 +166,50 @@
       "_url": "https://www.linkedin.com/jobs/view/4440621414/",
       "Posted": "12 hours ago",
       "Fit Notes": "Fresh contract DS role at Canva; Discovery team DS work (product analytics, experimentation). 12-month contract is easier to land than permanent Senior, and Canva is a premier AU tech employer. Stretch application.",
+      "Status": "Saved"
+    },
+    {
+      "Date Found": "2026-07-17",
+      "Company": "The University of Melbourne",
+      "Role": "AURIN Data Scientist",
+      "Location": "Parkville, Melbourne VIC",
+      "Job Link": "seek.com.au ↗",
+      "_url": "https://www.seek.com.au/job/93383486",
+      "Posted": "23 minutes ago",
+      "Fit Notes": "From SEEK: fresh Melbourne data scientist role building urban/geospatial data infrastructure and analytics for AURIN; solid fit for Jestin's DS/analytics background, university sector.",
+      "Status": "Saved"
+    },
+    {
+      "Date Found": "2026-07-17",
+      "Company": "Just Digital People (client, undisclosed)",
+      "Role": "Principal AI Engineer",
+      "Location": "Melbourne VIC (Hybrid)",
+      "Job Link": "seek.com.au ↗",
+      "_url": "https://www.seek.com.au/job/93383422",
+      "Posted": "25 minutes ago",
+      "Fit Notes": "From SEEK: fresh Melbourne AI engineering role at an established product company ($230-240k+super), building real AI products — strong fit for Jestin's applied GenAI/agentic AI experience, though 'Principal' level may be a stretch.",
+      "Status": "Saved"
+    },
+    {
+      "Date Found": "2026-07-17",
+      "Company": "Opus Recruitment Solutions (client, undisclosed)",
+      "Role": "Forward Deployed Engineer",
+      "Location": "Melbourne VIC (Hybrid)",
+      "Job Link": "seek.com.au ↗",
+      "_url": "https://www.seek.com.au/job/93380084",
+      "Posted": "2 hours ago",
+      "Fit Notes": "From SEEK: fresh Forward Deployed Engineer role building enterprise AI/agentic solutions — directly matches Jestin's target role list and GenAI/agentic systems background ($200-300k+super).",
+      "Status": "Saved"
+    },
+    {
+      "Date Found": "2026-07-17",
+      "Company": "Jobgether (recruiting on behalf of undisclosed partner)",
+      "Role": "Applied Machine Learning Researcher",
+      "Location": "Australia (Remote)",
+      "Job Link": "linkedin.com ↗",
+      "_url": "https://www.linkedin.com/jobs/view/4441143362",
+      "Posted": "Listed 'now' (within the hour)",
+      "Fit Notes": "From LinkedIn: remote ML research role improving conversational/voice AI systems — aligns with Jestin's LLM evaluation and applied ML background; posted via a recruiting-agency aggregator so employer identity is undisclosed.",
       "Status": "Saved"
     }
   ]
