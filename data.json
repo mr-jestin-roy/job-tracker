@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18 15:41",
+  "generated": "2026-07-19 00:34",
   "applications": [
     {
       "Company": "Suncorp Group",
@@ -221,6 +221,17 @@
       "_url": "https://www.linkedin.com/jobs/view/forward-deployed-engineers-fde-at-logical-4437946990/",
       "Posted": "1 week ago",
       "Fit Notes": "From LinkedIn (user-forwarded): Forward Deployed Engineer role in the Google Practice of a Global SI, driving agentic AI/GenAI transformation for ANZ enterprise clients on GCP (Vertex AI, BigQuery, GKE, Terraform); direct match for Jestin's target FDE/agentic AI roles, $200-240K+super. Gap: deep GCP infra depth vs his broader AWS/GCP exposure. Resume: job-tracker-site/resumes/Logical_Resources_Forward_Deployed_Engineer/resume_Forward_Deployed_Engineer.md",
+      "Status": "Saved"
+    },
+    {
+      "Date Found": "2026-07-19",
+      "Company": "MYOB",
+      "Role": "AI Engineering Manager",
+      "Location": "Sydney, NSW (Hybrid)",
+      "Job Link": "linkedin.com ↗",
+      "_url": "https://www.linkedin.com/jobs/view/4406101748",
+      "Posted": "Reposted 13 minutes ago",
+      "Fit Notes": "From LinkedIn keyword search (Data Scientist, r86400): foundational IC/tech-lead role building LLM/foundation-model features (RAG, document understanding, forecasting) with MLOps on AWS SageMaker/Bedrock — strong match for Jestin's GenAI, LLM evaluation, and AWS MLOps background. Resume: resumes/MYOB_AI_Engineering_Manager/resume_AI_Engineering_Manager.md",
       "Status": "Saved"
     }
   ]
