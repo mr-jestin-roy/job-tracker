@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17 12:12",
+  "generated": "2026-07-18 15:41",
   "applications": [
     {
       "Company": "Suncorp Group",
@@ -210,6 +210,17 @@
       "_url": "https://www.linkedin.com/jobs/view/4441143362",
       "Posted": "Listed 'now' (within the hour)",
       "Fit Notes": "From LinkedIn: remote ML research role improving conversational/voice AI systems — aligns with Jestin's LLM evaluation and applied ML background; posted via a recruiting-agency aggregator so employer identity is undisclosed.",
+      "Status": "Saved"
+    },
+    {
+      "Date Found": "2026-07-18",
+      "Company": "Logical Resources (client via Google Practice)",
+      "Role": "Forward Deployed Engineer (FDE)",
+      "Location": "Melbourne/Sydney",
+      "Job Link": "linkedin.com ↗",
+      "_url": "https://www.linkedin.com/jobs/view/forward-deployed-engineers-fde-at-logical-4437946990/",
+      "Posted": "1 week ago",
+      "Fit Notes": "From LinkedIn (user-forwarded): Forward Deployed Engineer role in the Google Practice of a Global SI, driving agentic AI/GenAI transformation for ANZ enterprise clients on GCP (Vertex AI, BigQuery, GKE, Terraform); direct match for Jestin's target FDE/agentic AI roles, $200-240K+super. Gap: deep GCP infra depth vs his broader AWS/GCP exposure. Resume: job-tracker-site/resumes/Logical_Resources_Forward_Deployed_Engineer/resume_Forward_Deployed_Engineer.md",
       "Status": "Saved"
     }
   ]
