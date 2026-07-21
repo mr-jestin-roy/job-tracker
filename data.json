@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-21 13:55",
+  "generated": "2026-07-22 00:25",
   "applications": [
     {
       "Company": "Suncorp Group",
@@ -276,6 +276,39 @@
       "_url": "https://www.linkedin.com/jobs/view/4406101748",
       "Posted": "Reposted 13 minutes ago",
       "Fit Notes": "From LinkedIn keyword search (Data Scientist, r86400): foundational IC/tech-lead role building LLM/foundation-model features (RAG, document understanding, forecasting) with MLOps on AWS SageMaker/Bedrock — strong match for Jestin's GenAI, LLM evaluation, and AWS MLOps background. Resume: resumes/MYOB_AI_Engineering_Manager/resume_AI_Engineering_Manager.md",
+      "Status": "Saved"
+    },
+    {
+      "Date Found": "2026-07-22",
+      "Company": "BuildPass",
+      "Role": "Forward Deployed Engineer",
+      "Location": "Cremorne, Melbourne, VIC (Hybrid)",
+      "Job Link": "linkedin.com ↗",
+      "_url": "https://www.linkedin.com/jobs/view/4443310983",
+      "Posted": "6 hours ago",
+      "Fit Notes": "From LinkedIn keyword search (Forward Deployed Engineer): AI-native FDE role blending customer-facing delivery with hands-on building (AI agents, MCP, automation) at a fast-growing construction-tech startup — strong match for Jestin's agentic AI/MCP experience and FDE target; 70% of applicants are entry-level.",
+      "Status": "Saved"
+    },
+    {
+      "Date Found": "2026-07-22",
+      "Company": "Resmed",
+      "Role": "Graduate Software Engineer",
+      "Location": "Sydney, NSW (On-site)",
+      "Job Link": "linkedin.com ↗",
+      "_url": "https://www.linkedin.com/jobs/view/4414656386",
+      "Posted": "Reposted 3 hours ago",
+      "Fit Notes": "From LinkedIn keyword search (AI Engineer): Graduate-level role requiring Python/Java, ML methodologies and hands-on GenAI project experience for test automation on clinical device software — good entry point matching Jestin's GenAI/ML background and graduate status.",
+      "Status": "Saved"
+    },
+    {
+      "Date Found": "2026-07-22",
+      "Company": "Amazon Web Services (AWS)",
+      "Role": "Data Scientist, Network Fabric Engineering",
+      "Location": "Sydney, NSW (On-site)",
+      "Job Link": "linkedin.com ↗",
+      "_url": "https://www.linkedin.com/jobs/view/4443028801",
+      "Posted": "14 hours ago",
+      "Fit Notes": "From LinkedIn keyword search (Data Scientist): 2+ years data scientist experience role designing risk/reliability models and evaluating agentic automation on AWS's global network — strong match for Jestin's LLM-as-Judge/agent evaluation and Python/SQL skills.",
       "Status": "Saved"
     }
   ]
