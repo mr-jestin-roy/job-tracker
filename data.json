@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-21 13:53",
+  "generated": "2026-07-21 13:55",
   "applications": [
     {
       "Company": "Suncorp Group",
@@ -132,6 +132,17 @@
       "Status": "Applied",
       "Cover Letter": "No",
       "Notes": "ML Engineer role within Wiq (Woolworths/Quantium JV), productionising ML pipelines on GCP. Applied via careers.woolworthsgroup.com.au."
+    },
+    {
+      "Company": "Wonderful",
+      "Role": "Forward Deployed Engineer (FDE) - Australia",
+      "Job Link": "wonderful.ai ↗",
+      "_url": "https://www.wonderful.ai/",
+      "Date Applied": "2026-07-21",
+      "Location": "Sydney, NSW (Onsite)",
+      "Status": "Applied",
+      "Cover Letter": "No",
+      "Notes": "AI infrastructure startup (founded 2025, backed by Index Ventures/Bessemer); FDE role embedding with enterprise customers building multi-agent LangGraph systems. Sourced via Harper (AI career agent, matchharper.com) direct introduction rather than a public job ad."
     }
   ],
   "new_jobs": [
