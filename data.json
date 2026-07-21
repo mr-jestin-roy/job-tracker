@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-19 00:34",
+  "generated": "2026-07-21 13:53",
   "applications": [
     {
       "Company": "Suncorp Group",
@@ -99,6 +99,39 @@
       "Status": "Applied",
       "Cover Letter": "No",
       "Notes": "Req R-0023364. Posted 7 days ago; end date 2026-07-24. Full time."
+    },
+    {
+      "Company": "Nuix",
+      "Role": "Software Engineer (mid-level) - AI Team",
+      "Job Link": "linkedin.com ↗",
+      "_url": "https://www.linkedin.com/jobs/view/4442588905",
+      "Date Applied": "2026-07-21",
+      "Location": "Sydney, NSW (Hybrid)",
+      "Status": "Applied",
+      "Cover Letter": "No",
+      "Notes": "AI Team role at Nuix (investigative analytics/AI software). Applied via careers.nuix.com; application confirmed by People & Culture team."
+    },
+    {
+      "Company": "Amazon",
+      "Role": "Software Development Engineer",
+      "Job Link": "linkedin.com ↗",
+      "_url": "https://www.linkedin.com/jobs/view/4443035509",
+      "Date Applied": "2026-07-21",
+      "Location": "Sydney, NSW",
+      "Status": "Applied",
+      "Cover Letter": "No",
+      "Notes": "AWS Infrastructure Services SDE role (network config/deployment software). Job ID: A10436399. Applied via amazon.jobs."
+    },
+    {
+      "Company": "Woolworths Group",
+      "Role": "Machine Learning Engineer - Software",
+      "Job Link": "linkedin.com ↗",
+      "_url": "https://www.linkedin.com/jobs/view/4434187566",
+      "Date Applied": "2026-07-21",
+      "Location": "Sydney, NSW",
+      "Status": "Applied",
+      "Cover Letter": "No",
+      "Notes": "ML Engineer role within Wiq (Woolworths/Quantium JV), productionising ML pipelines on GCP. Applied via careers.woolworthsgroup.com.au."
     }
   ],
   "new_jobs": [
